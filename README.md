@@ -15,5 +15,6 @@ the MyPyramid Dataset (Data.Gov, 2019) is used, which highlights the caloric con
 portion sizes, and proportion of daily values commonly eaten foods have. 
 
 References: 
+
 Data.gov (2019). MyPyramid Food Raw Data. Retrieved from: 
 https://catalog.data.gov/dataset/mypyramid-food-raw-data-f9ed6
